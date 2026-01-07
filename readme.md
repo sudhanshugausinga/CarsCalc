@@ -19,10 +19,10 @@ I built this tool to calculate the **Real Break-Even Point**, adjusted for:
 ![EV vs ICE](screenshots/ev-vs-ice.png)
 ![EV vs ICE (Dark Mode)](screenshots/ev-vs-ice-dark.png)
 
-### 1. EV vs CNG Comparison
+### 2. EV vs CNG Comparison
 ![EV vs CNG](screenshots/ev-vs-cng.png)
 
-### 2. CNG vs Petrol Comparison
+### 3. CNG vs Petrol Comparison
 ![CNG vs Petrol](screenshots/cng-vs-petrol.png)
 
 ## 🚀 Features
@@ -31,4 +31,5 @@ I built this tool to calculate the **Real Break-Even Point**, adjusted for:
 * **Privacy First:** No data is sent to servers; runs 100% in your browser.
 
 ---
+
 *Created by [Sudhanshu Gausinga]*

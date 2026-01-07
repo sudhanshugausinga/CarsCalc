@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Car Cost Calculator (EV vs ICE & CNG vs Petrol)
+# Car Cost Recovery Calculator (EV vs CNG vs ICE)
 
 ### 🔴 [Click Here to Use the Calculator](https://carscalc.netlify.app)
 *(Hosted on Netlify)*
@@ -17,7 +17,6 @@ I built this tool to calculate the **Real Break-Even Point**, adjusted for:
 
 ### 1. EV vs ICE Comparison
 ![EV vs ICE](screenshots/ev-vs-ice.png)
-![EV vs ICE (Dark Mode)](screenshots/ev-vs-ice-dark.png)
 
 ### 2. EV vs CNG Comparison
 ![EV vs CNG](screenshots/ev-vs-cng.png)
@@ -33,3 +32,4 @@ I built this tool to calculate the **Real Break-Even Point**, adjusted for:
 ---
 
 *Created by [Sudhanshu Gausinga]*
+
